@@ -2,18 +2,14 @@
     margin: 0%;
 }
 
-header {
-    background: blue;
+.header {
+      
 }
 
-aside {
-    background: yellow;
-}
-main {
-    background: green;
-
+.logo-wrapper{
+    float: left;
 }
 
-footer {
-    background: purple;
+.input-wrapper{
+    float: left;
 }
