@@ -46,3 +46,18 @@ footer{
     background: var(--primary-background);
     text-align: center;
 }
+
+contacts{
+    background: var(--primary-background);
+}
+
+.contacts1{
+    text-align: center;
+}
+
+.text1{
+    border: 2px solid #e5e5e5 ;
+    text-align: center;
+    padding: 2rem;
+    
+}
