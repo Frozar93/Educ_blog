@@ -58,6 +58,9 @@ contacts{
 .text1{
     border: 2px solid #e5e5e5 ;
     text-align: center;
-    padding: 2rem;
-    
+    padding: 2rem;   
+}
+
+login-form{
+    background: var(--primary-background);
 }
